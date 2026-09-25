@@ -1,4 +1,4 @@
-# P# Pivot — Adaptive Strategy Generator and Evaluator for Chaotic Events
+# Pivot — Adaptive Strategy Generator and Evaluator for Chaotic Events
 
 > **Pivot** is an AI-driven decision-support framework that generates, simulates, and objectively evaluates strategies for complex and rapidly changing events.
 
